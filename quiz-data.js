@@ -192,14 +192,14 @@ export const questions = [
   //   "correct": "Flowcharting. A flowchart is a graphical tool to construct the logic behind the program."
   // },
   {
-    "question": <p>Who is the best instructor?</p>,
+    "question": <p>Which of the following is NOT an example of a data structure in JavaScript?</p>,
     "answers": [
-      <p>Cj</p>,
-      <p>Hannah</p>,
-      <p>Cj and Hannah</p>,
-      <p>Yoda</p>
+      <p>Object</p>,
+      <p>Array</p>,
+      <p>Set in ES2015</p>,
+      <p>Trie</p>
     ],
-    "correct": "Yoda"
+    "correct": "Trie"
   },
   // {
   //   "question": <p>What is an example of a string constant?</p>,
